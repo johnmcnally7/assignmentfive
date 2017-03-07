@@ -23,6 +23,8 @@
         }
     }).addTo(map);
 
+info.bindPopup('TEST');
+
 
     //lighter outer glow
     var glow = L.geoJson(wifiData, {
