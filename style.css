@@ -4,6 +4,6 @@
 	position: absolute;
 }
 
-.navbar-brand {
+.navbar-brand, .dropdown-toggle {
 	font-family: 'Oswald', sans-serif;
 }
