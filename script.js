@@ -21,7 +21,7 @@ L.control.scale({
 var wifiData = L.geoJson(wifiData, {
      pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, {
-            color: 'LightSeaGreen',
+            color: 'LawnGreen',
             radius: 0.3,
             weight: 3
 
