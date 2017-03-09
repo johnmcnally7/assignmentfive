@@ -4,6 +4,10 @@
 	position: absolute;
 }
 
+.navbar.navbar-default {
+	margin: 0px;
+}
+
 .navbar-brand, .dropdown-toggle {
 	font-family: 'Oswald', sans-serif;
 }
